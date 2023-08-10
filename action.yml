@@ -1,5 +1,8 @@
 name: Publish to ghcr
 description: Publish to ghcr
+branding:
+  icon: package
+  color: orange
 
 runs:
   using: composite
